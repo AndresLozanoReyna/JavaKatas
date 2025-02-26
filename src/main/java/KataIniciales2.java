@@ -16,6 +16,7 @@ public class KataIniciales2 {
         if (numero >= 0) {
             System.out.println("El numero es positivo");
         }
+        //holagir
     }
 }
 
